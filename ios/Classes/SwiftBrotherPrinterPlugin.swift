@@ -1,6 +1,6 @@
 import Flutter
 import UIKit
-import ../Assets/BRPtouchPrinterKit
+import BRPtouchPrinterKit
 
 public class SwiftBrotherPrinterPlugin: NSObject, FlutterPlugin {
   public static func register(with registrar: FlutterPluginRegistrar) {
