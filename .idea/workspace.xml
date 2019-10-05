@@ -3,40 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="34b546e8-9a01-449e-bb47-0dfd904d92d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/BRPtouchPrinterKit" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Headers/BRCustomPaperInfoCommand.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Headers/BRPtouchBLEManager.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Headers/BRPtouchBatteryInfo.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Headers/BRPtouchBluetoothManager.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Headers/BRPtouchDeviceInfo.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Headers/BRPtouchLabelInfoStatus.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Headers/BRPtouchLabelParam.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Headers/BRPtouchNetworkManager.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Headers/BRPtouchPrintInfo.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Headers/BRPtouchPrinter.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Headers/BRPtouchPrinterData.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Headers/BRPtouchPrinterKit.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Headers/BRPtouchPrinterStatus.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Headers/BRPtouchTemplateInfo.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/Modules/module.modulemap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/_CodeSignature/CodeResources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/bsr403ad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/bsr403aiad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/bsr404ad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/bsr423ad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/bsr425ad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/bst40ad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/bst41nad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/bst441ad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/bst442ad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/bst451ad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/bst452ad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/BRPtouchPrinterKit.framework/bst455ad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Classes/SwiftBrotherPrinterPlugin.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/SwiftBrotherPrinterPlugin.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/brother_printer.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/brother_printer.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/brother_printer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/brother_printer.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -55,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/brother_printer.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="266">
+              <caret line="14" column="81" selection-start-line="14" selection-start-column="81" selection-end-line="14" selection-end-column="81" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -74,11 +46,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ios/Classes/SwiftBrotherPrinterPlugin.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="212">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -90,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/ios/Runner/Info.plist">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2" />
@@ -108,7 +80,14 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -121,6 +100,8 @@
       <list>
         <option value="$PROJECT_DIR$/ios/brother_printer.podspec" />
         <option value="$PROJECT_DIR$/ios/Classes/SwiftBrotherPrinterPlugin.swift" />
+        <option value="$PROJECT_DIR$/example/lib/main.dart" />
+        <option value="$PROJECT_DIR$/lib/brother_printer.dart" />
       </list>
     </option>
   </component>
@@ -144,30 +125,6 @@
             <path>
               <item name="brother_printer" type="b2602c69:ProjectViewProjectNode" />
               <item name="brother_printer" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="brother_printer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brother_printer" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="brother_printer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brother_printer" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Runner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="brother_printer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brother_printer" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="brother_printer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brother_printer" type="462c0819:PsiDirectoryNode" />
               <item name="ios" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -181,6 +138,16 @@
               <item name="brother_printer" type="462c0819:PsiDirectoryNode" />
               <item name="ios" type="462c0819:PsiDirectoryNode" />
               <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brother_printer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brother_printer" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brother_printer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brother_printer" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -224,6 +191,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Capture Tool" />
@@ -233,8 +201,8 @@
       <window_info id="Image Layers" />
       <window_info id="Captures" side_tool="true" />
       <window_info id="Resources Explorer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
-      <window_info active="true" anchor="bottom" id="Run" visible="true" weight="0.32959184" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info anchor="bottom" id="Run" weight="0.32959184" />
       <window_info anchor="bottom" id="Dart Analysis" weight="0.32985386" />
       <window_info anchor="bottom" id="Logcat" />
       <window_info anchor="bottom" id="TODO" />
@@ -254,36 +222,13 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ios/Classes/BrotherPrinterPlugin.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ios/Classes/BrotherPrinterPlugin.m">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ios/brother_printer.podspec">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/brother_printer.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ios/Classes/SwiftBrotherPrinterPlugin.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -295,6 +240,36 @@
     <entry file="file://$PROJECT_DIR$/example/ios/Runner/Info.plist">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Classes/BrotherPrinterPlugin.m">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/brother_printer.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="81" selection-start-line="14" selection-start-column="81" selection-end-line="14" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Classes/SwiftBrotherPrinterPlugin.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
       </provider>
     </entry>
   </component>
