@@ -16,9 +16,11 @@ public class SwiftBrotherPrinterPlugin: NSObject, FlutterPlugin {
         print(str)
         let dataDecoded : Data = Data(base64Encoded: str, options: .ignoreUnknownCharacters)!
         guard let decodedimage = UIImage(data: dataDecoded) else {return}
-        printImage(image: decodedimage)
+        let error = printImage(image: decodedimage)
+        result(error)
+    } else {
+        result("iOS " + UIDevice.current.systemVersion)
     }
-    result("iOS " + UIDevice.current.systemVersion)
   }
 
   func connectPrinter() {
@@ -45,6 +47,7 @@ public class SwiftBrotherPrinterPlugin: NSObject, FlutterPlugin {
       settings.strPaperName = "36mm"
       settings.nPrintMode = PRINT_FIT_TO_PAGE
       settings.nAutoCutFlag = OPTION_AUTOCUT
+      settings.nOrientation = ORI_LANDSCAPE
       printer.setPrintInfo(settings)
 
       // Connect, then print

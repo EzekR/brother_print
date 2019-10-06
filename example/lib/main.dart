@@ -44,7 +44,6 @@ class _MyAppState extends State<MyApp> {
   }
 
   Future<Null> testPrinting() async {
-    List<int> decoded = base64Decode(base64Image);
     var error = await BrotherPrinter.printImage(base64Image);
     print(error);
   }

@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="34b546e8-9a01-449e-bb47-0dfd904d92d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Classes/SwiftBrotherPrinterPlugin.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/SwiftBrotherPrinterPlugin.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/brother_printer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/brother_printer.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -49,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ios/Classes/SwiftBrotherPrinterPlugin.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="529">
+              <caret line="49" column="42" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -65,7 +61,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/ios/Runner/Info.plist">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2" />
+            <state relative-caret-position="190">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -81,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
+            <state relative-caret-position="347">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -99,9 +97,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ios/brother_printer.podspec" />
-        <option value="$PROJECT_DIR$/ios/Classes/SwiftBrotherPrinterPlugin.swift" />
-        <option value="$PROJECT_DIR$/example/lib/main.dart" />
         <option value="$PROJECT_DIR$/lib/brother_printer.dart" />
+        <option value="$PROJECT_DIR$/example/lib/main.dart" />
+        <option value="$PROJECT_DIR$/ios/Classes/SwiftBrotherPrinterPlugin.swift" />
       </list>
     </option>
   </component>
@@ -121,23 +119,6 @@
             <path>
               <item name="brother_printer" type="b2602c69:ProjectViewProjectNode" />
               <item name="brother_printer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="brother_printer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brother_printer" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="brother_printer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brother_printer" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="brother_printer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brother_printer" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="brother_printer" type="b2602c69:ProjectViewProjectNode" />
@@ -237,18 +218,20 @@
         <state relative-caret-position="-90" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/ios/Runner/Info.plist">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ios/Classes/BrotherPrinterPlugin.m">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/example/ios/Runner/Info.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
+        <state relative-caret-position="347">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -267,8 +250,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ios/Classes/SwiftBrotherPrinterPlugin.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="529">
+          <caret line="49" column="42" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="43" />
         </state>
       </provider>
     </entry>
