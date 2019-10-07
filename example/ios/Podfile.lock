@@ -5,13 +5,13 @@ PODS:
 
 DEPENDENCIES:
   - brother_printer (from `.symlinks/plugins/brother_printer/ios`)
-  - Flutter (from `.symlinks/flutter/ios-release`)
+  - Flutter (from `.symlinks/flutter/ios`)
 
 EXTERNAL SOURCES:
   brother_printer:
     :path: ".symlinks/plugins/brother_printer/ios"
   Flutter:
-    :path: ".symlinks/flutter/ios-release"
+    :path: ".symlinks/flutter/ios"
 
 SPEC CHECKSUMS:
   brother_printer: 4624b35e200561146a8106f27b5cdf022c0b19b6

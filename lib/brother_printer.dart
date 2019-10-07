@@ -13,7 +13,6 @@ class BrotherPrinter {
 
   static Future<String> printImage(String base64) async {
     final String error = await _channel.invokeMethod('printImage', {'data': base64});
-    print(error);
     return error;
   }
 }

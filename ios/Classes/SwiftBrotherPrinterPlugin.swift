@@ -13,11 +13,9 @@ public class SwiftBrotherPrinterPlugin: NSObject, FlutterPlugin {
     if call.method == "printImage" {
         let args = call.arguments! as! [String: Any]
         let str = args["data"] as? String ?? ""
-        print(str)
         let dataDecoded : Data = Data(base64Encoded: str, options: .ignoreUnknownCharacters)!
-        guard let decodedimage = UIImage(data: dataDecoded) else {return}
-        let error = printImage(image: decodedimage)
-        result(error)
+        guard let decodedImage = UIImage(data: dataDecoded) else {return}
+        result(printImage(image: decodedImage))
     } else {
         result("iOS " + UIDevice.current.systemVersion)
     }
@@ -37,7 +35,7 @@ public class SwiftBrotherPrinterPlugin: NSObject, FlutterPlugin {
     }
   }
 
-  func printImage(image: UIImage) {
+  func printImage(image: UIImage) -> String {
       // Specify printer
       let printer = BRPtouchPrinter(printerName: "PT-P900W", interface: CONNECTION_TYPE.WLAN)!
       printer.setIPAddress("192.168.118.1")
@@ -52,13 +50,14 @@ public class SwiftBrotherPrinterPlugin: NSObject, FlutterPlugin {
 
       // Connect, then print
       if printer.startCommunication() {
-        print("connected")
-        print(image)
           let errorCode = printer.print(image.cgImage, copy: 1)
           if errorCode != ERROR_NONE_ {
               print("ERROR - \(errorCode)")
           }
           printer.endCommunication()
+          return("ok")
+      } else {
+          return("failed")
       }
   }
 }
