@@ -15,8 +15,8 @@ A new Flutter plugin.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.ios.vendored_frameworks = 'Lib/BRPtouchPrinterKitW.framework'
-  s.vendored_frameworks = 'BRPtouchPrinterKitW.framework'
+  s.ios.vendored_frameworks = 'Lib/BRPtouchPrinterKit.framework'
+  s.vendored_frameworks = 'BRPtouchPrinterKit.framework'
 
   s.ios.deployment_target = '8.0'
   s.swift_version = '4.2'
