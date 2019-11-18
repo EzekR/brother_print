@@ -46,6 +46,7 @@ public class SwiftBrotherPrinterPlugin: NSObject, FlutterPlugin {
       settings.nPrintMode = PRINT_FIT_TO_PAGE
       settings.nAutoCutFlag = OPTION_AUTOCUT
       settings.nAutoCutCopies = 1
+      settings.bEndCut = true
       settings.bHalfCut = true
       settings.nOrientation = ORI_LANDSCAPE
       printer.setPrintInfo(settings)
